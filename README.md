@@ -1,13 +1,4 @@
-# AngryBirds
--------------------------------------------------
-Angry Birds :Anger: :Bird: Game Using JavaScript. 
+# Angry Birds Game Final
+The Best Game Ever
 
-# Contributors
-
-#### Authors:
-
-*  ![Mahdi7s](https://github.com/Mahdi7s)
-
-*  ![tonikolaba](https://github.com/tonikolaba)
-
-![Alt text](https://github.com/tonikolaba/download/blob/master/info/artofsoullogoVOG.png?raw=true"ArtofSoul")
+# Created By Dibyayan Kar
